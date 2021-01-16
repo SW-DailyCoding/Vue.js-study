@@ -19,11 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="233a01b1-3d26-4264-8c3f-a52424de9e27" name="Default Changelist" comment="">
+    <list default="true" id="233a01b1-3d26-4264-8c3f-a52424de9e27" name="Default Changelist" comment="project to multiplication">
       <change afterPath="$PROJECT_DIR$/Multiplcation table/Input-dan.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/frontend.zip" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multiplcation table/Input-dan.html" beforeDir="false" afterPath="$PROJECT_DIR$/Multiplcation table/Input-dan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multiplcation table/Multiplication-table.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,8 +94,16 @@
       <workItem from="1610267668046" duration="2487000" />
       <workItem from="1610334813889" duration="11568000" />
       <workItem from="1610500444797" duration="4891000" />
-      <workItem from="1610753365136" duration="6860000" />
+      <workItem from="1610753365136" duration="7220000" />
     </task>
+    <task id="LOCAL-00001" summary="project to multiplication">
+      <created>1610760701328</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610760701328</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,6 +120,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="project to multiplication" />
+    <option name="LAST_COMMIT_MESSAGE" value="project to multiplication" />
   </component>
   <component name="WindowStateProjectService">
     <state x="727" y="250" key="run.anything.popup" timestamp="1610759463531">
